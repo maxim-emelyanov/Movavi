@@ -1,5 +1,6 @@
 # MOVAVI testpage
 This page was made as a test task in the company "Movavi"
+
 ## Description
 
 Project used:
@@ -16,13 +17,13 @@ Project used:
 Clone this repository
 
 ``
-git clone https://github.com/maxcoolzero/mov_avi.git
+git clone https://github.com/maxim-emelyanov/Movavi.git
 ``
 
 Go to project`s folder
 
 ``
-cd mov_avi
+cd Movavi
 ``
 
 Install required packages
@@ -41,5 +42,5 @@ The result will be in 'dist' folder
 
 # Author
 
-* ** Maxim Emelyanov ** - * Movavi Test * - [maxcoolzero] (https://github.com/maxcoolzero)
+* ** Maxim Emelyanov ** - * Movavi Test * - [Maxim Emelyanov] (https://github.com/maxim-emelyanov)
 
